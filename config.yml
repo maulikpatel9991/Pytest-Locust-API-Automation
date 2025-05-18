@@ -1,0 +1,10 @@
+env: prod
+
+local:
+  host_url: https://reqres.in/api
+
+staging:
+  host_url: https://reqres.in/api
+
+production:
+  host_url: https://reqres.in/api

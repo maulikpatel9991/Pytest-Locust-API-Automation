@@ -1,0 +1,14 @@
+# Ignore all cache directories
+__pycache__/
+.pytest_cache/
+archive/
+.gitignore/
+
+# Ignore Locust configuration
+locust*.conf
+
+# General ignores
+*.pyc
+*.pyo
+.DS_Store
+*.log
