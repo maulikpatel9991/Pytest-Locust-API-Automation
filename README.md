@@ -58,3 +58,5 @@ locust -f load_tests/post_perf_run.py
 │   ├── get_crud_test.py    - e2e functional test file
 ├── requirements.txt        - Required python libraries
 ```
+
+![alt text](image.png)
